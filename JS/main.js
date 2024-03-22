@@ -111,6 +111,7 @@ for (const link of filterLink) {
    })
 };
 
+
 // Modal / Full Site Modal "Open Buttons"
 for (const elm of openModal) {
    elm.addEventListener('click', function() {
